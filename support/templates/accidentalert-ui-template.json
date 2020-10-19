@@ -62,7 +62,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "https://github.com/jbossdemocentral/3scale-security-oidc-demo.git",
+                        "uri": "https://github.com/paulomura/3scale-security-oidc-demo.git",
                         "ref": "master"
                     },
                     "contextDir": "/projects/accidentalert-ui"
